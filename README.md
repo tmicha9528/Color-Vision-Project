@@ -28,7 +28,16 @@ We started with a basic prototype design to depict matching to the correct RGB.
 <br>
 
 <p>
-We then transitioned to an overlay design as we built and modifified features based on that foundation. Note: there are far more iterations between these shown.
+We then transitioned to an overlay design as we built and modifified features based on that foundation.
 </p>
 
-<img src="img/progression.png" alt="Progression" />
+<div align="center">
+  <img src="img/progression.png" alt="Progression" />
+  <p> Note: there are far more iterations between those shown. </p>
+</div>
+
+# Demo
+
+<p>
+Check out a demo of the app <a href="https://youtube.com/shorts/5zrQrqdodDQ" target="_blank">here</a>. This received 100+ downloads across IOS and Android devices not long ago!
+</p>
