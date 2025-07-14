@@ -39,5 +39,5 @@ We then transitioned to an overlay design as we built and modifified features ba
 # Demo
 
 <p>
-Check out a demo of the app <a href="https://youtube.com/shorts/5zrQrqdodDQ" target="_blank">here</a>. This received 100+ downloads across IOS and Android devices not long ago!
+Check out a demo <a href="https://youtube.com/shorts/5zrQrqdodDQ">here</a>. This received 100+ downloads across iOS and Android devices not long ago!
 </p>
